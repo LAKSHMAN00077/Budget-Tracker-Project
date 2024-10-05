@@ -71,6 +71,7 @@ h3{
 .transaction-control .actions, .stats{
     padding: 30px 20px;
     margin: 0px 5px;
+    min-width: 210px;
     background-color: white;
     flex-grow: 1;
     border-radius: 5px;
